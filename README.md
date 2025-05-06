@@ -7,6 +7,7 @@
 - 🎒 Universidade: Univercidade do Vale de Itajaí.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcunhaa&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcunhaa&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img aling="center" alt="Rafa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
