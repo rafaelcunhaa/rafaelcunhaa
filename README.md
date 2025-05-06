@@ -1,10 +1,10 @@
-Informações Sobre mim:
+## Informações Sobre mim:
 
-- Nome: Rafael da Cunha.
-- Idade: 19.
-- Morando em: Itajaí - SC, Brasil.
-- Linguagens: C ,C++ ,html ,css , Java, MySQL,Postgresql,Python.
-- Universidade: Univercidade do Vale de Itajaí.
+- 🤓 Nome: Rafael da Cunha.
+- 🙃 Idade: 19.
+- 🇧🇷 Morando em: Itajaí - SC, Brasil.
+- 👨‍💻 Linguagens: C ,C++ ,html ,css , Java, MySQL,Postgresql,Python.
+- 🎒 Universidade: Univercidade do Vale de Itajaí.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelcunhaa&show_icons=true&theme=transparent)
 
